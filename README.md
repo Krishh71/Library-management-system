@@ -7,7 +7,7 @@ Add some book titles to it (one per line).
 
 How to Run
 Run this command in your terminal:
-python vityarthi.py
+python library.py
 
 Menu Options
 D: Display all books
@@ -19,5 +19,6 @@ A: Add a new book
 R: Return a book
 
 Q: Quit
+
 
 Note: All new books are saved automatically to library_catalog.txt.
